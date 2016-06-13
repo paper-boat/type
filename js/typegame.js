@@ -25,8 +25,8 @@ Typegame.prototype={
     })
     $("<h1>炫彩打字</h1>").appendTo("body").css({
       position:"absolute",
-      top:"100px",
-      left:"30%",
+      top:"30px",
+      left:"10%",
       // right:"0",
       margin:"auto",
       zIndex:"99999999999",
